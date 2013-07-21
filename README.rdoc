@@ -1,0 +1,10 @@
+== README
+Rails 4 - Ajax
+
+Follow the regular rails project creation process
+
+---
+
+
+Step #1
+
